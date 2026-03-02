@@ -592,7 +592,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@pluem4898](https://github.com/pluem4898)
-- Email: your.email@example.com
+- Email: pluem4898@gmail.com
 
 ---
 
